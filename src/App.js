@@ -56,7 +56,7 @@ const App = () => {
     >
       Connect to Wallet
     </button>
-
+    
   );
 
   
